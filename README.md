@@ -1,4 +1,4 @@
-# Tidyverse Koans: A Gentle Introduction to R for Economists (and other applied researchers)
+# Tidyverse Koans for EC320
 
 Welcome! This repository contains koans for EC320: Introduction to Econometrics at the University of Oregon, Spring 2024. It is a fork of [tidyverse_koans](https://github.com/cobriant/tidyverse_koans) repository by Colleen O'Briant. A huge thank you to Colleen for making these material public and allowing me to use them! Apart from some minor changes, all koans and the instructions below were written by her. For more information regarding the philosophy of koans, I recommend reading through Colleen's README.
 
