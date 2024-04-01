@@ -66,3 +66,12 @@ Go ahead and start working on the koans and learning about the tidyverse! When y
 
 One last thing: whenever you want to work on the koans, make sure you open RStudio by opening the "`tidyverse_koans-master`" project, not just the individual koan file. If you open the koans in a session that's not associated with the "`tidyverse_koans-master`" project, the tests will fail to run. You can always see which project your current session is being associated with by looking at the upper right hand corner of RStudio: if you're in the "`tidyverse_koans-master`" project, you'll see "`tidyverse_koans-master`" up there. That's good. If you're in no project at all, you'll see "Project: (None)" up there. That's not good, especially if you want the tests to run. If you see "Project: (None)", just click that text and you'll be able to switch over to the "`tidyverse_koans-master`" project.
 
+# Submitting Koans for Credit
+
+Koans will be assigned (mostly) weekly and will be due on Friday by 5p on Canvas. To submit your koans for full credit, you will need to:
+
+1. Make sure all of your koans are passing
+2. Compile your koans into an html document (Ctrl/Cmd Shift K or File > Compile Report)
+3. Submit the html document to Canvas
+
+Only the html document will be accepted. Do not compile to PDF or Word.

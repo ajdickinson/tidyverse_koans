@@ -7,9 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: A fork from [cobriant/tidyverse_koans](https://github.com/cobriant/tidyverse_koans).
-    
-    The Koans walk you along the path to enlightenment in order to 
+Description: A fork from [cobriant/tidyverse_koans](https://github.com/cobriant/tidyverse_koans). The Koans walk you along the path to enlightenment in order to 
     learn the tidyverse, from dplyr to ggplot2 to purrr. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
